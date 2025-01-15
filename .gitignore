@@ -137,3 +137,7 @@ dmypy.json
 
 # Renovate bot
 renovate.json5
+
+# IPython Notebook files for notebook revision
+*_revised.ipynb
+*_revising.ipynb
